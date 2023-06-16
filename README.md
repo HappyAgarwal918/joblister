@@ -5,6 +5,8 @@ Live : [Click Me](http://joblister-laravel-8.herokuapp.com) <br/>
 
 # Laravel 8
 
+# Php version 7.2 required
+
 ## Installations
 
 <br />
